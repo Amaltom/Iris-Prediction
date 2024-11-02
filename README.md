@@ -1,3 +1,3 @@
 # Iris-Prediction
-Iris prediction with pytest cases, lala
+Iris prediction with pytest cases.
 
