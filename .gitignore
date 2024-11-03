@@ -1,0 +1,4 @@
+iris_env/
+Iris-Prediction/__pycache__/
+Iris-Prediction/.ipynb_checkpoints/
+iris_model.joblib
